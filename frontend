@@ -1,0 +1,9 @@
+cat > frontend/index.html <<'EOF'
+<!doctype html>
+<html>
+  <head><meta charset="utf-8"><title>Frontend</title></head>
+  <body>
+    <h1>Frontend Build Success ✅</h1>
+  </body>
+</html>
+EOF
